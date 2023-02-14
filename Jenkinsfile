@@ -5,7 +5,7 @@ pipeline {
         stage('Hello') {
             steps {
                 echo 'Hello World'
-                echo 'Triggered Automatically!!!'
+                echo 'Triggered Automatically'
             }
         }
     }
