@@ -6,7 +6,7 @@ pipeline {
             steps {
                 echo 'Hello World'
                 echo 'Triggered Automatically'
-                echo 'Main Branch!!!'
+                echo 'This is Main Branch!!!'
             }
         }
     }
